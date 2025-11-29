@@ -4,3 +4,5 @@ stuffy
 mitu
 chiken
 rocky
+monty
+moka
